@@ -46,3 +46,4 @@ elif seccion == "🧠 Técnicas de Estudio":
 elif seccion == "🖼️ Galería":
     st.header("🖼️ Galería de Imágenes Didácticas")
     st.image(["images/tabla_periodica.png", "images/reacciones.jpg"], caption=["Tabla Periódica", "Tipos de Reacciones"])
+
